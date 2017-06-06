@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InClass3</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Mood">Your current mood:</string>
+    <string name="Department">Department</string>
+    <string name="Submit">Submit</string>
+    <string name="info">Student Information</string>
+    <string name="save">Save</string>
+</resources>

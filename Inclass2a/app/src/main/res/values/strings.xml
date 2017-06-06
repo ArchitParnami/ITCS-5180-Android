@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">In class 2a</string>
+    <string name="action_settings">Settings</string>
+    <string name="hiddenInput">Amount (USD)</string>
+    <string name="result">Result:</string>
+    <string name="EuroButtonName">Euro (EUR)</string>
+    <string name="CandButtonName">Canadian Dollar (CAD)</string>
+    <string name="BritButtonName">British Pound(GBP)</string>
+    <string name="JapButtonName">Japanese Yen (JPY)</string>
+    <string name="ClearAllButonName">Clear All</string>
+    <string name="ConvertButtonName">Convert</string>
+    <string name="defaultInput">1</string>
+</resources>
