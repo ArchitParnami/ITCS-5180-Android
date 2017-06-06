@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TimeConverter</string>
+    <string name="UTC">UTC:</string>
+    <string name="Colon"> : </string>
+    <string name="Hours">Hours</string>
+    <string name="Minutes">Minutes</string>
+    <string name="ButtonRadio">Button/Radio:</string>
+    <string name="OFF">OFF</string>
+    <string name="ON">ON</string>
+    <string name="Result">Result</string>
+    <string name="ESTButtonName">Eastern Standard Time (EST)</string>
+    <string name="CSTButtonName">Central Standard Time (CST)</string>
+    <string name="MSTButtonName">Mountain Standard Time (MST)</string>
+    <string name="PSTButtonName">Pacific Standard Time (PST)</string>
+    <string name="ClearButtonName">Clear All</string>
+    <string name="Convert">Convert</string>
+</resources>
