@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="passwordCount">Select Passwords Count:</string>
+    <string name="passwordLength">Select Password Length:</string>
+    <string name="password">Password</string>
+    <string name="GeneratePasswords">Generate Passwords (Thread)</string>
+    <string name="GeneratePassword2">Generate Passwords (Async Task)</string>
+</resources>
