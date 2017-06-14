@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ItunesSearch</string>
+    <string name="Limit">Limit</string>
+    <string name="Search">Search</string>
+    <string name="Reset">Reset</string>
+    <string name="SortBy">Sort by:</string>
+    <string name="Price">Price</string>
+    <string name="Date">Date</string>
+    <string name="Results">Results</string>
+    <string name="Track">Track:</string>
+    <string name="Artist">Artist</string>
+    <string name="Genre">Genre:</string>
+    <string name="Album">Album:</string>
+    <string name="TrackPrice">Track Price:</string>
+    <string name="AlbumPrice">Album Price:</string>
+    <string name="Finish">Finish</string>
+</resources>
